@@ -1,0 +1,6 @@
+pandas 
+matplotlib
+numpy 
+librosa
+glob
+tensorflow
